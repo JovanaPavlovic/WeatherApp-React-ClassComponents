@@ -22,7 +22,7 @@ export function convertDate(dt) {
     "December",
   ];
 
-  const month = monthNames[convertedDate.getUTCMonth()]; //months from 1-12
+  const month = monthNames[convertedDate.getUTCMonth()];
   const day = convertedDate.getUTCDate();
   const year = convertedDate.getUTCFullYear();
 

@@ -28,14 +28,12 @@ code {
   display: flex;
   width: 30rem;
 }
-/* .bg {
-  background-color: #92dff3;
-} */
-.card-1 {
-  background-image: url(./public/img8.jpg);
+
+/* .card-1 {
+  background-color: cyan;
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 
 h3,
 h4,
